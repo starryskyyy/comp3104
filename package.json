@@ -1,7 +1,8 @@
 {
   "name": "comp3104",
   "engines": {
-    "node": ">=14.0.0"
+    "npm" : ">=7.0.0",
+    "node" : ">=14.0.0"
    },
   "version": "1.0.0",
   "description": "",
